@@ -1,4 +1,4 @@
-baseURL = "http://kiss1.netlify.app"
+baseURL = "https://kiss1.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
