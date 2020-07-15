@@ -2,7 +2,7 @@ baseURL = "https://kiss1.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Kiss"
 [[menu.main]]
 URL = "about"
 name = "About"
