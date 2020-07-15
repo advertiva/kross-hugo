@@ -1,4 +1,4 @@
-baseURL = "https://kiss1.netlify.app"
+baseURL = "https://fxstrike.ml"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
